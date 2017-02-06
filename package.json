@@ -1,0 +1,8 @@
+{
+  "dependencies" : {
+    "optimist" : "*",
+    "request" : "*",
+    "node-telegram-bot-api" : "*",
+    "cron" : "*"
+  }
+}
